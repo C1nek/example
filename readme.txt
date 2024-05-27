@@ -2,4 +2,4 @@ git status
 git add [fileName.txt]
 git add .  (all files)
 git commit -m 'added new files'
-git push
+git push (download to github)
